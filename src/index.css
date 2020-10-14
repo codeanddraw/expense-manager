@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-check {
+  margin-top: 1rem;
+  margin-bottom: 1rem;;
+}
+
+.paid {
+  background-color: lightgreen;
+}
+
+.not-paid {
+  background-color: lightpink;
+}
