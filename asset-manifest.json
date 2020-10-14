@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reponame/static/css/main.f379ea6d.chunk.css",
-    "main.js": "/reponame/static/js/main.8211f640.chunk.js",
-    "main.js.map": "/reponame/static/js/main.8211f640.chunk.js.map",
-    "runtime-main.js": "/reponame/static/js/runtime-main.5ff1af57.js",
-    "runtime-main.js.map": "/reponame/static/js/runtime-main.5ff1af57.js.map",
-    "static/css/2.6414bb7b.chunk.css": "/reponame/static/css/2.6414bb7b.chunk.css",
-    "static/js/2.959525db.chunk.js": "/reponame/static/js/2.959525db.chunk.js",
-    "static/js/2.959525db.chunk.js.map": "/reponame/static/js/2.959525db.chunk.js.map",
-    "index.html": "/reponame/index.html",
-    "precache-manifest.331bc8f7603b0e62efe69a609b4600a2.js": "/reponame/precache-manifest.331bc8f7603b0e62efe69a609b4600a2.js",
-    "service-worker.js": "/reponame/service-worker.js",
-    "static/css/2.6414bb7b.chunk.css.map": "/reponame/static/css/2.6414bb7b.chunk.css.map",
-    "static/css/main.f379ea6d.chunk.css.map": "/reponame/static/css/main.f379ea6d.chunk.css.map",
-    "static/js/2.959525db.chunk.js.LICENSE.txt": "/reponame/static/js/2.959525db.chunk.js.LICENSE.txt"
+    "main.css": "/expense-manager/static/css/main.f379ea6d.chunk.css",
+    "main.js": "/expense-manager/static/js/main.0396ee7e.chunk.js",
+    "main.js.map": "/expense-manager/static/js/main.0396ee7e.chunk.js.map",
+    "runtime-main.js": "/expense-manager/static/js/runtime-main.f7c68bf5.js",
+    "runtime-main.js.map": "/expense-manager/static/js/runtime-main.f7c68bf5.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/expense-manager/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.959525db.chunk.js": "/expense-manager/static/js/2.959525db.chunk.js",
+    "static/js/2.959525db.chunk.js.map": "/expense-manager/static/js/2.959525db.chunk.js.map",
+    "index.html": "/expense-manager/index.html",
+    "precache-manifest.1a551e6e28820face471a3fb7180e635.js": "/expense-manager/precache-manifest.1a551e6e28820face471a3fb7180e635.js",
+    "service-worker.js": "/expense-manager/service-worker.js",
+    "static/css/2.6414bb7b.chunk.css.map": "/expense-manager/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.f379ea6d.chunk.css.map": "/expense-manager/static/css/main.f379ea6d.chunk.css.map",
+    "static/js/2.959525db.chunk.js.LICENSE.txt": "/expense-manager/static/js/2.959525db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ff1af57.js",
+    "static/js/runtime-main.f7c68bf5.js",
     "static/css/2.6414bb7b.chunk.css",
     "static/js/2.959525db.chunk.js",
     "static/css/main.f379ea6d.chunk.css",
-    "static/js/main.8211f640.chunk.js"
+    "static/js/main.0396ee7e.chunk.js"
   ]
 }
