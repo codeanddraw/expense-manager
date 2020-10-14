@@ -19,8 +19,28 @@ code {
 
 .paid {
   background-color: lightgreen;
+  cursor: pointer;
 }
 
 .not-paid {
   background-color: lightpink;
+  cursor: pointer;
+}
+
+.row-item {
+  cursor: pointer;
+}
+
+#formGroupExampleInput, #formGroupExampleInput2 {
+  padding-top: 1rem;
+}
+
+.form-text {
+  padding-bottom: 1rem;
+  font-style: italic;
+  font-size: 0.8rem;
+}
+
+.btn-primary {
+  margin-right: 1rem;
 }
